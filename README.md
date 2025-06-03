@@ -2,7 +2,7 @@
 
 ## 👤 UserController API Endpoints
 
-## POST /users/register
+### POST /users/register
 
 Request Body Example:
 
