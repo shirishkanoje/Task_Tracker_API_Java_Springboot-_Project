@@ -170,6 +170,9 @@ Response:
 
 200 OK – List of tasks due on that date
 
+![Get_Task_By_DueDate](https://github.com/user-attachments/assets/0ef64ea5-2d44-4664-8346-3cdcddcee027)
+
+
 
 
 
