@@ -24,9 +24,9 @@ Response:
 
 ![Register_User](https://github.com/user-attachments/assets/f1d36819-d2c1-475d-9e62-4271c4e1b4dc)
 
-##✅ TaskController API Endpoints
+## ✅ TaskController API Endpoints
 
-#📝 POST /tasks?userId={userId}
+### 📝 POST /tasks?userId={userId}
 
 Description:
 
@@ -58,7 +58,7 @@ Response:
 
 ![Create_Task](https://github.com/user-attachments/assets/d43aad98-00ea-46ef-9ff8-068eee7a97d3)
 
-# GET /tasks
+### GET /tasks
 
 Description:
 
@@ -70,7 +70,7 @@ Response:
 
 ![Fetch_All_Tasks](https://github.com/user-attachments/assets/33c6d19c-9d6e-485c-9e65-6fd9e820b494)
 
-# GET /tasks/{id}
+### GET /tasks/{id}
 
 Description:
 
@@ -86,7 +86,7 @@ Response:
 
 ![Get_Specific_Task_By_Id](https://github.com/user-attachments/assets/198d9043-f3b7-4f4e-8108-3b68bc1d2609)
 
-# PUT /tasks/update/{id}
+### PUT /tasks/update/{id}
 
 Description:
 
@@ -116,7 +116,7 @@ Response:
 
 ![Update_Task](https://github.com/user-attachments/assets/cdae3bec-891e-4ab5-9a0e-cb7443760918)
 
-# ❌ DELETE /tasks/delete/{id}
+### ❌ DELETE /tasks/delete/{id}
 
 Description:
 
@@ -134,7 +134,7 @@ Response:
 
 ![Delete_Task_By_ID](https://github.com/user-attachments/assets/130829a5-5fe1-492a-b5c8-6c5d2d0e3143)
 
-# GET /tasks/status/{status}
+### GET /tasks/status/{status}
 
 Description:
 
@@ -154,7 +154,7 @@ Response:
 
 ![Get_Task_By_Status](https://github.com/user-attachments/assets/09c00d47-8c5a-454c-b3bf-751476b08b3d)
 
-# ⏰ GET /tasks/due/{yyyy-MM-dd}
+### ⏰ GET /tasks/due/{yyyy-MM-dd}
 
 Description:
 
