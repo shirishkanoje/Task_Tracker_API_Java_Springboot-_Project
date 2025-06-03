@@ -1,8 +1,8 @@
-## Task_Tracker_API_Java_Springboot_Project
+# Task_Tracker_API_Java_Springboot_Project
 
-##👤 UserController API Endpoints
+## 👤 UserController API Endpoints
 
-# POST /users/register
+## POST /users/register
 
 Request Body Example:
 
