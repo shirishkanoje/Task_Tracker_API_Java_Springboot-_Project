@@ -1,0 +1,8 @@
+com\shirish\repository\TaskRepository.class
+com\shirish\utils\OtpUtils.class
+com\shirish\domain\TaskStatus.class
+com\shirish\modal\Task.class
+com\shirish\service\TaskService.class
+com\shirish\TreadingApplication.class
+com\shirish\controller\TaskController.class
+com\shirish\modal\User.class
