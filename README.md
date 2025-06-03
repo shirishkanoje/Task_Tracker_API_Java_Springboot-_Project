@@ -17,9 +17,7 @@ Request Body Example:
 }
 
 Response:
-
 201 Created – User registered successfully.
-
 400 Bad Request – Email already in use.
 
 ![Register_User](https://github.com/user-attachments/assets/f1d36819-d2c1-475d-9e62-4271c4e1b4dc)
@@ -107,6 +105,8 @@ Request Body Example:
   "dueDate": "2025-06-10",
   
   "status": "IN_PROGRESS"
+  
+  }
 
 Response:
 
