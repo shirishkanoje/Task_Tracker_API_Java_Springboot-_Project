@@ -1,0 +1,69 @@
+# ===== Project Meta =====
+HELP.md
+
+# ===== Build Directories =====
+/target/
+/build/
+/dist/
+/nbbuild/
+/nbdist/
+/nbproject/private/
+/.nb-gradle/
+!**/src/main/**/target/
+!**/src/test/**/target/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+# ===== Maven Wrapper =====
+.mvn/
+!/.mvn/wrapper/maven-wrapper.jar
+mvnw
+mvnw.cmd
+
+# ===== IDE Specific =====
+
+# 🌱 STS (Spring Tool Suite)
+.apt_generated/
+.classpath
+.factorypath
+.project
+.settings/
+.springBeans
+.sts4-cache/
+
+# 💡 IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# 🧃 VS Code
+.vscode/
+
+# 🧱 NetBeans
+nbproject/private/
+build/
+dist/
+nbbuild/
+nbdist/
+
+# ===== OS Specific =====
+
+# 💻 macOS
+.DS_Store
+
+# 🪟 Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# 🐧 Linux
+*~
+
+# ===== Logs =====
+*.log
+
+# ===== Environment Files =====
+.env
+.env.local
+.env.*.local
